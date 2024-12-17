@@ -1,2 +1,3 @@
 # Saikiran-spec-NetView
+NetView is a Python-based remote desktop application that enables users to securely access and control computers over a network. Designed as an open-source and lightweight alternative to commercial tools, it offers real-time desktop sharing, file transfer, and remote control functionalities. With a focus on security and performance, NetView uses encryption for secure communication, making it a reliable solution for troubleshooting, remote work, and system management.
 Managing remote desktop access is crucial for tasks like troubleshooting, file access, and controlling systems from afar. Existing remote access tools, such as TeamViewer or AnyDesk
